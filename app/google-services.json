@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722241039021",
+    "project_id": "agrohelper-68af0",
+    "storage_bucket": "agrohelper-68af0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722241039021:android:eba1c76adf7e0300813424",
+        "android_client_info": {
+          "package_name": "com.app.agrohelper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKT4yHytA9dZ7p0OIYcWopaTAYmdMXy4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
